@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Anuj Dyamanna</h1>
 <h3 align="center">A passionate and eager C# developer in New Zealand</h3>
 
+- 🔭 I’m currently working on **A looting action RPG game (personal project)**
+
 - 🌱 I’m currently learning **C# using Unity Game Engine and Mirror**
 
 <h3 align="left">Connect with me:</h3>
